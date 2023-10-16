@@ -6,11 +6,19 @@ def print_goncalo():
 
 def print_barbara():
 	print('Barbara')
+ 
+def print_henriqueM():
+    print("Henrique M")
+
+def print_joao():
+	print("Joao F")
 
 def main():
 	initial_print()
 	print_goncalo()
 	print_barbara()
+	print_henriqueM()
+	print_joao()
 
 if __name__ == '__main__':
         main()
