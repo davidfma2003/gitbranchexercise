@@ -50,14 +50,6 @@ def main():
     print_joaoC()
     print_henriqueC()
 	print_joaoC()
-    initial_print()
-    print_goncalo()
-    print_barbara()
-    print_henriqueM()
-    print_davidG()
-    print_joao()
-    print_joaoC()
-    print_diogo()
 
 
 if __name__ == '__main__':
