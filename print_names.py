@@ -24,6 +24,9 @@ def print_joao():
 def print_goncalo():
 	print('Afonso Mestre')
 
+def print_pedro():
+	print("Pedro Noronha")
+
 def main():
 	initial_print()
 	print_goncalo()
@@ -32,6 +35,7 @@ def main():
 	print_davidG()
 	print_joao()
 	print_joaoC()
+	print_pedro()
 
 if __name__ == '__main__':
     main()
