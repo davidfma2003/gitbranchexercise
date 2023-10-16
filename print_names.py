@@ -4,6 +4,9 @@ def initial_print():
 def print_goncalo():
 	print('Goncalo')
 
+def print_rafael():
+	print('Rafael Ferreira :-')
+
 def main():
 	initial_print()
 	print_goncalo()
