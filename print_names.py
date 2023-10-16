@@ -34,6 +34,9 @@ def print_diogo():
     print('Diogo Gonçalves')
 
 
+def print_rafael():
+	print('Rafael Ferreira :-')
+
 def main():
     initial_print()
     print_goncalo()
