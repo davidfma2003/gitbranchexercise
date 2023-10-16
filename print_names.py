@@ -14,19 +14,28 @@ def print_henriqueC():
 
 
 def print_barbara():
-	print('Barbara')
- 
+    print('Barbara')
+
+
 def print_henriqueM():
     print("Henrique M")
+
 
 def print_davidG():
     print("David Gaspar")
 
+
 def print_joao():
-	print("Joao F")
-      
-def print_goncalo():
-	print('Afonso Mestre')
+    print("Joao F")
+
+
+def print_afonso():
+    print('Afonso Mestre')
+
+
+def print_diogo():
+    print('Diogo Gonçalves')
+
 
 def print_rafael():
 	print('Rafael Ferreira :-')
@@ -41,6 +50,15 @@ def main():
     print_joaoC()
     print_henriqueC()
 	print_joaoC()
+    initial_print()
+    print_goncalo()
+    print_barbara()
+    print_henriqueM()
+    print_davidG()
+    print_joao()
+    print_joaoC()
+    print_diogo()
+
 
 if __name__ == '__main__':
     main()
