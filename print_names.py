@@ -9,6 +9,10 @@ def print_goncalo():
 def print_joaoC():
     print('JoaoC')
 
+def print_henriqueC():
+    print("HenriqueC")
+
+
 def print_henriqueM():
     print("Henrique M")
 
@@ -28,6 +32,7 @@ def main():
  	print_davidG()
 	print_joao()
     print_joaoC()
+    print_henriqueC()
 
 if __name__ == '__main__':
     main()
