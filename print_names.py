@@ -40,6 +40,9 @@ def print_diogo():
 def print_rafael():
 	print('Rafael Ferreira :-')
 
+def print_pedro():
+	print("Pedro Noronha")
+
 def main():
 	initial_print()
 	print_goncalo()
@@ -51,6 +54,7 @@ def main():
     print_henriqueC()
 	print_joaoC()
 
+	print_pedro()
 
 if __name__ == '__main__':
     main()
