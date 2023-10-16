@@ -6,13 +6,14 @@ def print_goncalo():
     print('Goncalo')
 
 
-def prin_joao():
+def print_joao():
     print('Joao')
 
 
 def main():
     initial_print()
     print_goncalo()
+    print_joao()
 
 
 if __name__ == '__main__':
